@@ -67,6 +67,7 @@ Atliq Hardwares wanted to understand its sales, customer behavior, and product p
 ### 1. SQL Query Execution Example
 
 ![SQL Query](./images/S1.png)
+![SQL Query](./images/S2.png)
 
 ## 🏁 Conclusion
 
