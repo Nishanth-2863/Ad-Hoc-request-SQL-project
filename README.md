@@ -80,7 +80,7 @@ Through the SQL challenge, **Atliq Hardwares** can now make more informed data-d
 ## 🙏 Acknowledgements
 
 - Data used for this project is sourced from **CodeBasics**.
-- Special thanks to **Hemanand Vadivel**, **Dhaval Patel**, and the **CodeBasics** team for providing the resume project challenge initiative.
+- Special thanks to **Hemanand Vadivel**, **Dhaval Patel**, and the **CodeBasics** team for providing the resume project challenges
 
 ---
 
