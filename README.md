@@ -53,7 +53,7 @@ Atliq Hardwares wanted to understand its sales, customer behavior, and product p
    - **Dense Rank (`DENSE_RANK()`):** .
    - **Common Table Expressions (CTEs):** 
    - **User-Defined Functions:**
-   - 
+     
 4. **Data Analysis and Insights Extraction:**
    - Generated insights on top-performing products, customer discount behavior.
    - Visualized the results using **Excel** to make the data more interpretable and actionable.
