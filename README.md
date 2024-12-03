@@ -62,6 +62,11 @@ Atliq Hardwares wanted to understand its sales, customer behavior, and product p
    - Based on the insights derived, recommendations were provided on optimizing product strategies, improving customer targeting, and planning for seasonal fluctuations.
 
 ---
+## 📊 Sample Screenshots
+
+### 1. SQL Query Execution Example
+
+![SQL Query](./images/S1.png)
 
 ## 🏁 Conclusion
 
