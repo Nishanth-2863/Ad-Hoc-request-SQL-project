@@ -23,12 +23,6 @@ The challenge revolves around analyzing the sales and product data of Atliq Hard
 
 Atliq Hardwares wanted to understand its sales, customer behavior, and product performance through data analysis. The dataset included information about sales transactions, products, and customers. The company was looking for insights that could help them optimize their strategies and improve business performance.
 
-### 🔍 Key Challenges:
-- Identifying trends in product sales.
-- Understanding customer behavior through discounts and purchases.
-- Analyzing sales performance across different regions and segments.
-
----
 
 ## 📊 Key Insights
 
